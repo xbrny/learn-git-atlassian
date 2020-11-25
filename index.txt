@@ -1,0 +1,6 @@
+I am ready for production
+
+-Create post
+-Get post list
+-Get post details
+-Update post
