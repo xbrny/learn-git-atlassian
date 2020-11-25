@@ -1,5 +1,6 @@
 I am ready for production
 
+[Post]
 -Create post
 -Get post list
 -Get post details
