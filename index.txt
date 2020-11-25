@@ -5,3 +5,4 @@ I am ready for production
 -Get post details
 -Update post
 -Archive post
+-Restore post
